@@ -4,3 +4,4 @@
 *.swp
 .venv-zie/*
 *-checkpoint.ipynb
+hdf5/*
